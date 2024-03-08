@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YIPEEEE!</title>
+</head>
+<body>
+<h2>YIPEEEE!</h2>
+<img src="(link to kissing face gif)" alt="Kissing Face GIF">
+<button onclick="openGuessPage()">GUESS WHERE WE'RE GOING</button>
+
+<script>
+    function openGuessPage() {
+        window.open("guess_page.html", "_blank");
+    }
+</script>
+</body>
+</html>
